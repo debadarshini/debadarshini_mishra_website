@@ -1,9 +1,8 @@
 ---
 title: Debadarshini (Jolly) Mishra
-role: Graduate student at University of Connecticut | Experimental Physicist
+role: Graduate student | Experimental Physicist
 avatar_filename: img_20180717_135536.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -52,6 +51,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+I am a graduate student at the University of Connecticut, pursuing a PhD in Physics. My research interests broadly lie in the field of atomic, molecular, and optical (AMO) physics, with a focus on ultrafast molecular dynamics using time-resolved spectroscopic techniques. I am currently working on imaging ultrafast molecular dynamics using various techniques such as photoion and photoelectron spectroscopy. I have experience working with various spectrometers such as COLTRIMS, VMI, and magnetic bottle spectrometer. For these experiments, I use various light sources such as high-power table-top pulsed lasers, free electron lasers and synchrotrons. 
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
