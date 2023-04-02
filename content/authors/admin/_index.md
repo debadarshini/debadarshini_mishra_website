@@ -52,6 +52,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I﻿ am a graduate student at the University of Connecticut, pursuing a PhD in Physics. My research interest broadly lie in the field of atomic, molecular and optical (AMO) Physics. Specifically, I work on imaging ultrafast molecular dynamics using various techniques such as photoion and photoelectron spectroscopy. I have experience working with various spectrometers such as COLTRIMS, VMI, and magnetic bottle spectrometer. For these experiments, I use light sources such as high-power table-top pulsed lasers, free electron lasers and synchrotrons.
-
-{style="text-align: justify;"}
+I﻿ am a graduate student at the University of Connecticut, pursuing a PhD in Physics. My research interest broadly lie in the field of atomic, molecular and optical (AMO) Physics. Specifically, I work on imaging ultrafast molecular dynamics using various techniques such as photoion and photoelectron spectroscopy. I have experience working with various spectrometers such as COLTRIMS, VMI, and magnetic bottle spectrometer. For these experiments, I use light sources such as high-power table-top pulsed lasers, free electron lasers and synchrotrons.{style="text-align: justify;"}
