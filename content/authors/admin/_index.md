@@ -1,7 +1,7 @@
 ---
 title: Debadarshini (Jolly) Mishra
 role: Graduate student | Experimental Physicist
-avatar_filename: img_20180717_135536.jpg
+avatar_filename: ""
 bio: ""
 interests:
   - Ultrafast Molecular Dynamics
