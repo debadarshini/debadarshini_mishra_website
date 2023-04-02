@@ -4,9 +4,10 @@ role: Graduate student | Experimental Physicist
 avatar_filename: img_20180717_135536.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ultrafast Molecular Dynamics
+  - Ultrafast Electron Diffraction
+  - Free-Electron Lasers
+  - Non-Linear Optics
 social:
   - icon: envelope
     icon_pack: fas
@@ -51,8 +52,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I﻿ am a graduate student at the University of Conencticut, pursuing a PhD in Physics. My research interest broadly lie in the field of atomic, molecular and optical (AMO) physics.
-
-I am a graduate student at the University of Connecticut, pursuing a PhD in Physics. My research interests broadly lie in the field of atomic, molecular, and optical (AMO) physics. Sp am currently working on imaging ultrafast molecular dynamics using various techniques such as photoion and photoelectron spectroscopy. I have experience working with various spectrometers such as COLTRIMS, VMI, and magnetic bottle spectrometer. For these experiments, I use various light sources such as high-power table-top pulsed lasers, free electron lasers and synchrotrons.
+I﻿ am a graduate student at the University of Connecticut, pursuing a PhD in Physics. My research interest broadly lie in the field of atomic, molecular and optical (AMO) Physics. Specifically, I work on imaging ultrafast molecular dynamics using various techniques such as photoion and photoelectron spectroscopy. I have experience working with various spectrometers such as COLTRIMS, VMI, and magnetic bottle spectrometer. For these experiments, I use light sources such as high-power table-top pulsed lasers, free electron lasers and synchrotrons.
 
 {style="text-align: justify;"}
